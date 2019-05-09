@@ -1,5 +1,2 @@
 # hello-world
-test
-test change
-vs change
-gitchg2
+test g1
